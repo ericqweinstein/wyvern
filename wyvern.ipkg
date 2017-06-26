@@ -1,0 +1,9 @@
+package wyvern
+
+sourceloc = git://git@github.com:ericqweinstein/wyvern.git
+bugtracker = https://www.github.com/ericqweinstein/wyvern/issues
+pkgs = contrib, effects
+
+sourcedir = src
+modules = Wyvern,
+          Wyvern.Main
